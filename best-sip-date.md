@@ -18,7 +18,7 @@ Since past performance is not indicative of future performance, anything derived
 
 If between 2001-2010, 5th of the month had been best for a particular fund, say SBI Bluechip (not a recommendation, just using as an example) - that does NOT mean for next 10 years (2011-2020) same exact date was best for the same fund.
 
-For instance, some believe last Thursday of the month being option expiry dates, can be best for investment This is obviously not backed by any sound analysis.
+For instance, some people believe that the last Thursday of the month coinciding with options expiry date, can be best for investment. This is obviously not backed by any sound analysis.
 
 What does a sound analysis here look like?
 
@@ -30,12 +30,10 @@ But that's not all! Imagine someone investing on 28th of a month, instead of 1st
 
 A proper analysis on best date for SIP would also have to involve the interest income from this and tax paid on these gains, which again, have varied greatly over any meaningful period.
 
-As you can see, there are too many variables; and that's just with one single funds. India have more than a few thousand funds.
+As you can see, there are too many variables; and that's just with one single fund. India have more than a two thousand mutual funds, as of now.
 
-Finally, consider that people don't invest same amount of money with SIP every 10 year period. As their income grows, SIP step up happens. Nor do people continue their SIP all the time: some might pause SIP from time to time or skip one or two instalments.
+Finally, consider that people don't invest the same amount via SIP over a ten year period. Some people increase the amount of SIP that they do every year as their salary increases. Some of them pause their SIPs from time to time, or skip a few instalments here and there.
 
-When you see all these complexities; it should be obvious that your investment transaction pattern over next 10 years is not something against which past 10 years' best SIP date have been computed. Because it's unique to you.
-
-To sum it all up; there's a best date for SIP in a month, and it depends on lot of factors that one cannot easily simulate with past data. But even if they did and found one, that date might not be best for your investment pattern for next 1-2 decades.
+To sum it all up; there might be a best date for SIP in a month, and it depends on lot of factors that one cannot easily simulate with past data. But even if they did and found one, that date might not be best for your investment pattern for next 1-2 decades.
 
 Invest on a date of month you're comfortable with.
