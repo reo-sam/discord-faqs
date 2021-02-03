@@ -4,4 +4,6 @@ export const TYPES = {
   Token: Symbol("Token"),
   MessageResponder: Symbol("MessageResponder"),
   PingFinder: Symbol("PingFinder"),
+  MDFileParser: Symbol("MDFileParser"),
+  MDDirectoryParser: Symbol("MDDirectoryParser"),
 };

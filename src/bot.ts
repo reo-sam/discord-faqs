@@ -1,5 +1,6 @@
 import { Client, Message } from "discord.js";
 import { inject, injectable } from "inversify";
+import { inspect } from "util";
 import { MessageResponder } from "./services/message-responder";
 import { TYPES } from "./types";
 
@@ -30,12 +31,22 @@ export class Bot {
       console.log(message.content);
 
       this.messageResponder
-        .handle(message)
-        .then(() => {
-          console.log("Response sent!");
+        .handleDir(message, "faqs")
+        .then((messages) => {
+          if (Array.isArray(messages)) {
+            console.log(
+              messages.map((innerMessageArray) => {
+                return innerMessageArray.map(({ id, createdTimestamp }) => ({
+                  id,
+                  createdTimestamp,
+                }));
+              })
+            );
+          }
         })
-        .catch(() => {
+        .catch((err) => {
           console.log("Could not send message");
+          console.error(err);
         });
     });
     return this.client.login(this.token);
